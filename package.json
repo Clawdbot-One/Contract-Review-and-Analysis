@@ -1,0 +1,17 @@
+{
+  "name": "contract-review-and-analysis",
+  "version": "1.0.0",
+  "description": "合同评审与分析智能辅助系统",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
